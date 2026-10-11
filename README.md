@@ -23,3 +23,10 @@ A classic *Snake Game* built with Arduino and simulated using Proteus. The game 
 ### ไฟล์ในโปรเจกต์นี้
 * `1.ino` - โค้ดหลักภาษา C/C++ สำหรับ Arduino
 * `1.pdsprj` - ไฟล์จำลองวงจรและฮาร์ดแวร์ในโปรแกรม Proteus
+
+
+<br>
+
+##Game Preview 🖥️
+<img width="1112" height="720" alt="202610111459" src="https://github.com/user-attachments/assets/fe106f5a-9707-4206-b1fd-3a244272e828" />
+
