@@ -12,7 +12,7 @@ A classic *Snake Game* built with Arduino and simulated using Proteus. The game 
 
 <br>
 
-## (Snake เกม) 🐍
+## Snake เกม 🐍
 
 โปรเจกต์ *เกมงูสุดคลาสสิก* พัฒนาโดยใช้บอร์ด Arduino และจำลองการทำงานของฮาร์ดแวร์ผ่านโปรแกรม Proteus โดยผู้เล่นจะควบคุมทิศทางของงูบนหน้าจอ LED Matrix 8x8 เก็บสะสมคะแนนโชว์บนจอ LCD และสั่งการเลี้ยวแบบ Real-time ผ่านคีย์บอร์ด
 
@@ -27,6 +27,6 @@ A classic *Snake Game* built with Arduino and simulated using Proteus. The game 
 
 <br>
 
-##Game Preview 🖥️
+## Game Preview 🖥️
 <img width="1112" height="720" alt="202610111459" src="https://github.com/user-attachments/assets/fe106f5a-9707-4206-b1fd-3a244272e828" />
 
